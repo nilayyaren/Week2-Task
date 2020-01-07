@@ -1,0 +1,7 @@
+C:\Users\Niloş\source\repos\Week2-AlternativeTaskSln\Week2-AlternativeTaskSln\bin\Debug\Week2-AlternativeTaskSln.exe.config
+C:\Users\Niloş\source\repos\Week2-AlternativeTaskSln\Week2-AlternativeTaskSln\bin\Debug\Week2-AlternativeTaskSln.exe
+C:\Users\Niloş\source\repos\Week2-AlternativeTaskSln\Week2-AlternativeTaskSln\bin\Debug\Week2-AlternativeTaskSln.pdb
+C:\Users\Niloş\source\repos\Week2-AlternativeTaskSln\Week2-AlternativeTaskSln\obj\Debug\Week2-AlternativeTaskSln.csprojAssemblyReference.cache
+C:\Users\Niloş\source\repos\Week2-AlternativeTaskSln\Week2-AlternativeTaskSln\obj\Debug\Week2-AlternativeTaskSln.csproj.CoreCompileInputs.cache
+C:\Users\Niloş\source\repos\Week2-AlternativeTaskSln\Week2-AlternativeTaskSln\obj\Debug\Week2-AlternativeTaskSln.exe
+C:\Users\Niloş\source\repos\Week2-AlternativeTaskSln\Week2-AlternativeTaskSln\obj\Debug\Week2-AlternativeTaskSln.pdb
